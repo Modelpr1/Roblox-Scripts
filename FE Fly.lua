@@ -77,4 +77,4 @@ elseif key:lower() == "d" then
 ctrl.r = 0
 end
 end)
-Fly()
+Fly(f)
